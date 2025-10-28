@@ -1,0 +1,8 @@
+# Compilados de C
+*.o
+*.out
+*.exe
+
+# Diretórios comuns
+/build/
+
